@@ -1,0 +1,5 @@
+{
+  "version": "1.6.3",
+  "release_notes": "Comprehensive code quality refactor — memory safety, thread sync, architecture, and cleanup.",
+  "release_url": "https://github.com/tenacityinc/aco_ag/releases/tag/v1.6.3"
+}
