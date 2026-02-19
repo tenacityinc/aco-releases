@@ -1,5 +1,5 @@
 {
-  "version": "1.6.3",
-  "release_notes": "Comprehensive code quality refactor — memory safety, thread sync, architecture, and cleanup.",
-  "release_url": "https://github.com/tenacityinc/aco_ag/releases/tag/v1.6.3"
+  "version": "1.7.0",
+  "release_notes": "Meeting intelligence sprint — configurable summaries, contact metadata, user notes, call-back action, and overlay fix.",
+  "release_url": "https://github.com/tenacityinc/aco_ag/releases/tag/v1.7.0"
 }
