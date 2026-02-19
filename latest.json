@@ -1,5 +1,8 @@
 {
-  "version": "1.7.0",
-  "release_notes": "Meeting intelligence sprint — configurable summaries, contact metadata, user notes, call-back action, and overlay fix.",
-  "release_url": "https://github.com/tenacityinc/aco_ag/releases/tag/v1.7.0"
+  "version": "1.7.1",
+  "release_notes": "In-app auto-update — updates now download, verify, install, and relaunch directly within the app.",
+  "release_url": "https://github.com/tenacityinc/aco_ag/releases/tag/v1.7.1",
+  "download_url": "https://github.com/tenacityinc/aco-releases/releases/download/v1.7.1/ACO-ag-1.7.1.zip",
+  "download_size": 1664901,
+  "sha256": "18a99dd82f6e635d5b35fe77a658cd92557adf6521a753925b9e128302ae0fee"
 }
